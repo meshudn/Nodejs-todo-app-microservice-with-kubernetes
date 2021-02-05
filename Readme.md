@@ -1,5 +1,5 @@
 # (TODO List) Dockerized Node Js Microservice Application with Kubernetes yaml.
-## Project setup
+## Project setup (Under development)
 This app contains both the backend and the frontend in a single repository.
 ```	
 ├── backend microservice (Node JS)
